@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/bin/Debug/netcoreapp2.2/MagicYearCalculator.deps.json
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/bin/Debug/netcoreapp2.2/MagicYearCalculator.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/bin/Debug/netcoreapp2.2/MagicYearCalculator.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/bin/Debug/netcoreapp2.2/MagicYearCalculator.dll
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/bin/Debug/netcoreapp2.2/MagicYearCalculator.pdb
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/obj/Debug/netcoreapp2.2/MagicYearCalculator.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/obj/Debug/netcoreapp2.2/MagicYearCalculator.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/obj/Debug/netcoreapp2.2/MagicYearCalculator.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/obj/Debug/netcoreapp2.2/MagicYearCalculator.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/obj/Debug/netcoreapp2.2/MagicYearCalculator.dll
+/Users/helena.franczak/RiderProjects/MagicYearCalculator/MagicYearCalculator/obj/Debug/netcoreapp2.2/MagicYearCalculator.pdb
